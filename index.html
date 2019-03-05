@@ -1,1 +1,57 @@
-hello it's qiman!
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <title>Musync</title>
+</head>
+
+<body>
+
+    <nav>
+        <div class="nav-wrapper">
+            <div>
+                <a href="#!" class="brand-logo"> Youtube CHannel Data</a>
+            </div>
+        </div>
+    </nav>
+
+    <br>
+    <section>
+        <div class="container">
+            <p>Log in With Google</p>
+            <button class="btn red" id="auth-button">Log In</button>
+            <button class="btn red" id="auth-button">Log In</button>
+            <br>
+
+            <div id="content">
+                <div class="row">
+                    <div class="col s6">
+                        <form id="channel-form">
+                            <div class="input-field">
+                                <input type="text" placeholder="Enter Channel Name" id="channel-input">
+                                <input type="Submit" value="Get Channel Data" class="btn grey lightn-2">
+                                
+                            </div>
+                        </form>
+                    </div>
+                    <div id="channel-data" class="col s6"></div>
+                </div>
+
+                <div class="row" id="video-container"></div>
+
+            </div>
+        </div>
+    </section>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+</body>
+
+
+
+</html>
