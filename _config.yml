@@ -2,9 +2,9 @@
 title: Qiman Wang
 email: WangQiman0111@gmail.com
 url: https://QimanWang.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Aspiring Software Engineer - Aspiring Data Scientist"
+description: "Welcome to My personal Website. My name is Qiman Wang and I'm a Data Engineer at Northwestern Mutual. I want to showcase my projects and skills here."
+keywords: "Data Engineer, Software Engineer, Machine Learning, Qiman Wang"
+skills: "Data Engineer --in progress--> Machine Learning Engineer"
 meta_author: Qiman Wang
 
 # Google webmaster tools
@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 3881ed #18bc9c #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
